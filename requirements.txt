@@ -6,7 +6,7 @@ langchain-mistralai
 
 langchain-chroma
 chromadb
-
+langchain-groq
 langchain-huggingface
 sentence-transformers
 
